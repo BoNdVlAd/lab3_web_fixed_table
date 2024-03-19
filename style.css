@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+table {
+  padding: 0;
+  margin: 0;
+}
+
+.table1 {
+  margin: 0 auto;
+  width: 900px;
+  height: 800px;
+
+  border-collapse: separate;
+  border-spacing: 0px;
+}
+th,
+td {
+  padding: 8px;
+  text-align: left;
+
+  border: 1px solid #000;
+}
+.block2 {
+  display: flex;
+  width: 900px;
+  height: 730px;
+}
+.thing1 {
+  background-color: #ffcc00;
+  height: 100px;
+  padding: 0;
+}
+.thing2 {
+  width: 300px;
+  background-color: #3366ff;
+}
+.thing3 {
+  width: 200px;
+  padding: 0;
+}
+.thing4 {
+  background-color: #3366ff;
+  width: 200px;
+  margin: 20px;
+}
+
+.thing1_table2 {
+  height: 100px;
+  background-color: #ff5050;
+}
+
+.table2 {
+  height: 710px;
+  width: 600px;
+  border-spacing: 20px;
+}
+
+.first {
+  background-color: rgb(255, 233, 35);
+  height: 100px;
+  text-align: right;
+}
+
+.innrefist {
+  border-color: rgb(255, 233, 35);
+  background-color: rgb(255, 233, 35);
+  text-align: right;
+  height: 50px;
+
+  width: 600px;
+}
+
+.inrercontainer {
+  background-color: #fff;
+  height: 30px;
+  width: 180px;
+}
+
+.thing3_block1 {
+  height: 100%;
+  background-color: #fff;
+}
+.table3 {
+  border-spacing: 0px;
+}
+.thing3_block1 {
+  height: 400px;
+}
+.thing3_block2 {
+  height: 100px;
+  width: 420px;
+  background-color: #ff5050;
+}
